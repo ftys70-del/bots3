@@ -23,5 +23,6 @@
     { "hash": "a4daa02d0588524c33521e8c113722537c8ba8f784f42eddae2980b3129a9d0d", "expires": "2026-11-02" },
     { "hash": "49bdaea497ccda435f33e5a9de33316780ed196e1b9cd7c166f0e668074e489b", "lifetime": true },
     { "hash": "38cf116c6230b334d7ec8cad972be1d5c191419014d31c77d2399d88671dd80d", "lifetime": true }
+    { "hash": "c7e2655012a8d4067e77904521de19f2ed82908be31aa2cac52befa8d19c56ca", "expires": "2026-11-06" },
   ]
 }
