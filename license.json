@@ -1,29 +1,6 @@
 {
   "allowed_hashes": [
-    { "hash": "e8c829fe3361a89be7799d2862196533159808ef5f6c51968cad54b4a30a9d93", "lifetime": true },
-    { "hash": "51e7c8f76be5672ac1029a6cc960114437611db05dfa85c9f906aeea41b7f78f", "lifetime": true },
-    { "hash": "7158727a9985e935b74e71696c3b274e698ce9b5faa45d41b0605434c81ca883", "lifetime": true },
-    { "hash": "3525045a6e9dc74673c7df0665ceb5500087ee9ce1c3e0324df9db06fc2ffed1", "lifetime": true },
-    { "hash": "ea8a0dfe398bf5d161c58f5d13a071d22a0c283f55ed5a60fed3cd68e17dc8e1", "lifetime": true },
-    { "hash": "e8c829fe3361a89be7799d2862196533159808ef5f6c51968cad54b4a30a9d93", "lifetime": true },
     { "hash": "bdc455439b68ddf89bc7e3be7fcb1a6c0231f76f7b5dc7068658958377d89392", "lifetime": true },
-    { "hash": "f4f1c1bd59ed552f664f9d27c02e8384cb1eb12d84f938fa4adead9b1122e777", "lifetime": true },
-    { "hash": "001bdc6e49763910589ba4838303a61e3879ec472c84b35ea6ff145344bda4f3", "expires": "2026-10-29" },
-    { "hash": "5dda65339364e84720bcd7a1069d4f72d9e9fd84969e0b234c4f06370b160700", "expires": "2026-09-01" },
-    { "hash": "01f9b421853dc457b8ccd8efec5fa8d3596ddabc256316b9471da95343340122", "expires": "2026-11-01" },
-    { "hash": "d101796ccacb60177ffec0f1fdd0027b1ab14a6f876571554171119d5c1afee0", "expires": "2026-08-18" },
-    { "hash": "adf552515022e3adcb6bb343308e91a61cf26131323ce903814aaf418b622e7c", "expires": "2026-11-20" },
-    { "hash": "c104f3647f552b81d9cd929c8da09ede627afcd1341331a97383f29c66ab6a54", "lifetime": true },
-    { "hash": "ac97e6faf7263c2727e9c5c216725d45cddfaa3ad81717aea171c654cdb95b00", "expires": "2026-10-28" },
-    { "hash": "caadc8a1ff39cf0c1f37c0bf14f2e860f8f9dacf586ced290f31f1672f50282e", "expires": "2026-08-11" },
-    { "hash": "986b9f56786f86d07c31fa5e83aebdd8b08668141fa7138c13ce4edf3f239d24", "expires": "2026-10-30" },
-    { "hash": "92c3167c886bbe7ed4648d4d6029a0af456df3926efecee1e6f51800a3326ea3", "expires": "2026-08-19" },
-    { "hash": "d7055ff19435b2649f2673a1d8058bd64bb908f20d4834120e859efb6dd9bd16", "expires": "2026-11-21" },
-    { "hash": "2169c3c9d886347cfe236597c89507dde546cca37fbf99700c201483dd73cddd", "expires": "2026-10-25" },
-    { "hash": "a4daa02d0588524c33521e8c113722537c8ba8f784f42eddae2980b3129a9d0d", "expires": "2026-11-02" },
-    { "hash": "49bdaea497ccda435f33e5a9de33316780ed196e1b9cd7c166f0e668074e489b", "lifetime": true },
-    { "hash": "38cf116c6230b334d7ec8cad972be1d5c191419014d31c77d2399d88671dd80d", "lifetime": true },
-    { "hash": "c7e2655012a8d4067e77904521de19f2ed82908be31aa2cac52befa8d19c56ca", "expires": "2026-11-06" },
-    { "hash": "53af203d03830b829c999c492f7971e58e9471b2bda2c80099ac4e19ef78de43", "expires": "2026-11-14" }
+    { "hash": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", "expires": "2026-11-14" }
   ]
 }
